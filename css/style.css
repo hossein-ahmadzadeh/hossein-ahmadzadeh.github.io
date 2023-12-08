@@ -901,7 +901,7 @@ Contact Section
 }
 
 .contact-form .input-control::placeholder{
-    color: var(--pink-light);
+    color: var(--blue-dark);
     opacity: 0.8;
     font-weight: 300;
 }
@@ -916,7 +916,7 @@ Contact Section
     font-size: 16px;
     background-color: var(--white-alpha-25);
     padding: 0 20px;
-    color: var(--pink-light);
+    color: var(--blue-dark);
     border: 1px solid transparent;
     transition: border-color 0.3s ease;
 }
