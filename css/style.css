@@ -527,7 +527,7 @@ Header Section
 .header .nav-inner ul li a{
     font-size: 40px;
     text-transform: capitalize;
-    color: var(--pink-light);
+    color: var(--blue-dark);
     display: block;
     font-weight: 500;
     padding: 8px 15px;
@@ -662,7 +662,7 @@ About Section
     border: none;
     text-transform: capitalize;
     display: inline-block;
-    color: var(--pink-light);
+    color: var(--blue-dark);
     font-size: 20px;
     cursor: pointer;
     font-weight: 500;
